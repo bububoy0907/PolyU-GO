@@ -1,3 +1,4 @@
+```
 <a-entity
         gltf-model="#gh_model"
         scale="1.5 1.5 1.5"
@@ -8,4 +9,6 @@
         material="color: #FFFFFF; shader: flat;">
       </a-entity>
 
+
 //action: can move up and down with rotation, the model has Self-illuminating source which is setted in blender, all model are designed with same scale and color
+```
