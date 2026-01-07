@@ -85,8 +85,25 @@ This is a **deliberate portfolio decision** to stay compliant and responsible.
 ## Screenshots / Showcase
 
 ### App screenshots: </br>
+Main screens:</br>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/app_sc1.jpeg?raw=true" width="50%" height="50%"/>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/app_sc2.jpeg?raw=true" width="50%" height="50%"/><img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/app_sc4.jpeg?raw=true" width="40%" height="40%"/>
+</br></br>Map view:</br>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/app_sc5.jpeg?raw=true" width="30%" height="30%"/>
+</br></br>User Form:</br>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/app_sc6.jpeg?raw=true" width="30%" height="30%"/>
 
 ### Development progress screenshots: </br>
+
+Model Implementation: </br>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_7.jpeg?raw=true" width="33%" height="33%"/>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_8.jpeg?raw=true" width="40%" height="40%"/>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_10.jpeg?raw=true" width="40%" height="40%"/><img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_1.jpeg?raw=true" width="40%" height="40%"/>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_9.jpeg?raw=true" width="40%" height="40%"/>
+</br></br>UI/UX: </br>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_4.jpeg?raw=true" width="30%" height="30%"/><img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_2.jpeg?raw=true" width="29%" height="29%"/>
+
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_6.jpeg?raw=true" width="35%" height="35%"/>
 
 ---
 
