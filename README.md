@@ -84,9 +84,9 @@ This is a **deliberate portfolio decision** to stay compliant and responsible.
 
 ## Screenshots / Showcase
 
-# App screenshots: </br>
+### App screenshots: </br>
 
-# Development progress screenshots: </br>
+### Development progress screenshots: </br>
 
 ---
 
