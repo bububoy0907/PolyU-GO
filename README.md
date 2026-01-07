@@ -96,8 +96,8 @@ Main screens:</br>
 ### Development progress screenshots: </br>
 
 Model Implementation: </br>
-<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_7.jpeg?raw=true" width="33%" height="33%"/>
-<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_8.jpeg?raw=true" width="40%" height="40%"/>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_7.png?raw=true" width="33%" height="33%"/>
+<img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_8.png?raw=true" width="40%" height="40%"/>
 <img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_10.jpeg?raw=true" width="40%" height="40%"/><img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_1.jpeg?raw=true" width="40%" height="40%"/>
 <img src="https://github.com/bububoy0907/PolyU-GO/blob/main/media/progress_9.jpeg?raw=true" width="40%" height="40%"/>
 </br></br>UI/UX: </br>
